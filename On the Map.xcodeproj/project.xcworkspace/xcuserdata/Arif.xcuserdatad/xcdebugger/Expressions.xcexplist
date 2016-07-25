@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "LocationAPIManager.AddUserLocation(StudentInformation, finished : (ResponseObject) -&gt; ()) -&gt; ():LocationAPIManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "request.HTTPBody">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FindMeViewController.findOnMapClick(AnyObject) -&gt; ():FindMeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "!txtSearchBox.text!.isEmpty">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.(authenticateUser(AnyObject) -&gt; ()).(closure #1).(closure #3):LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "oLoggedInUser">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MapViewController.(getExisitingUserLocations() -&gt; [Location]).(closure #1):MapViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "value(0)">
+            </PersistentString>
+            <PersistentString
+               value = "value">
+            </PersistentString>
+            <PersistentString
+               value = "value[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ShowMapSearchViewController.saveMapInfo(AnyObject) -&gt; ():ShowMapSearchViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "StudentLocationManager.studentLocations.count">
+            </PersistentString>
+            <PersistentString
+               value = "locationsStruct[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.(authenticateUser(AnyObject) -&gt; ()).(closure #1):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json(0)">
+            </PersistentString>
+            <PersistentString
+               value = "value as? String">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.authenticateUser(AnyObject) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "txtPassword.text?.isEmpty">
+            </PersistentString>
+            <PersistentString
+               value = "strBody">
+            </PersistentString>
+            <PersistentString
+               value = "txtEmail">
+            </PersistentString>
+            <PersistentString
+               value = "strBody.dataUsingEncoding(NSUTF8StringEncoding)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AuthenticationManager.(Authenticate(String, password : String, finished : (LoggedInUser) -&gt; ()) -&gt; ()).(closure #1):AuthenticationManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MapViewController.(getExisitingUserLocations() -&gt; [StudentInformation]).(closure #1):MapViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.authenticateUser(AnyObject) -&gt; ():LoginViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LocationAPIManager.(AddUserLocation(StudentInformation, finished : (ResponseObject) -&gt; ()) -&gt; ()).(closure #1):LocationAPIManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "parseError.localizedDescription">
+            </PersistentString>
+            <PersistentString
+               value = "abc">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.(authenticateUser(AnyObject) -&gt; ()).(closure #1):LoginViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.(authenticateUser(AnyObject) -&gt; ()).(closure #2).(closure #3):LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "oLoggedInUser.userId">
+            </PersistentString>
+            <PersistentString
+               value = "oLoggedInUser">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FindMeViewController.(findOnMapClick(AnyObject) -&gt; ()).(closure #1):FindMeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "appDelegate.locations">
+            </PersistentString>
+            <PersistentString
+               value = "LoggedInUserManager.loggedInUser.firstName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ListViewController.tableView(UITableView, numberOfRowsInSection : Int) -&gt; Int:MapListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "appDelegate.studentLocations.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.(authenticateUser(AnyObject) -&gt; ()).(closure #1).(closure #2):LoginViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ShowMapSearchViewController.viewDidLoad() -&gt; ():ShowMapSearchViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "myL.latitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MapViewController.getExisitingUserLocations() -&gt; [Location]:MapViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "StudentInformation.init(dictionary : NSDictionary) -&gt; StudentInformation:StudentInformation.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dictionary[&quot;createdAt&quot;]! ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MapListViewController.viewWillAppear(Bool) -&gt; ():MapListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "StudentLocationManager.studentLocations.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AuthenticationManager.(Authenticate(String, password : String) -&gt; LoggedInUser).(closure #1):AuthenticationManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ShowMapSearchViewController.(saveMapInfo(AnyObject) -&gt; ()).(closure #1):ShowMapSearchViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
